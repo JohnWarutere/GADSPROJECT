@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lEADERBOARD </string>
+    <string name="top_skilliq_2020">Top SkillIQ 2020</string>
+    <string name="top_learners_2020">Top Learners 2020</string>
+    <string name="error_loading">Error loading the list of learners</string>
+    <string name="error_in_loading">Error in loading</string>
+    <string name="error_loading_the_page">Error in loading the page</string>
+</resources>
